@@ -2,6 +2,10 @@ package jcolonia.daw2025.tablasmvc;
 /**
 * Núcleo de aplicación de consola de texto con menús. Aplicación
 * de texto usando tablas de multiplicar infantiles clásicas. 
+* 
+* @author Alejandro Gómez Juez
+* 
+* @version 1.0_AG1
 */
 public class ControlTablaMultiplicar {
 	/** Formato tipo «printf» para el nombre del archivo de
